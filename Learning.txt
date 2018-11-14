@@ -1,5 +1,4 @@
-
-9146102167
+Amit deshmukh
 **********************
 
 Your username: ashwini@metapercept.com
@@ -17,11 +16,11 @@ SwaggerHub is used by more than 15,000 software teams across the globe.
 
 *******************
 
-Swagger Editor â€“ a browser-based editor where you can write OpenAPI definitions.
+Swagger Editor – a browser-based editor where you can write OpenAPI definitions.
 
-Swagger UI â€“ renders OpenAPI definitions as interactive API documentation, like the one at http://petstore.swagger.io.
+Swagger UI – renders OpenAPI definitions as interactive API documentation, like the one at http://petstore.swagger.io.
 
-Swagger Codegen â€“ generates server code and client libraries based on an OpenAPI definition.
+Swagger Codegen – generates server code and client libraries based on an OpenAPI definition.
 
 
 
@@ -52,10 +51,10 @@ GitHub pages is a static site hosting service designed to host your personal, or
 What is GitHub?
 
 GitHub is web-based hosting service for Version Control using Git. It offers all functionalities of git as well adding many of its own. You get a much clean web
-UI providing great visuals and donâ€™t need to master any CLI. You can comment on changes/revisions made by others, contribute to open source projects, 
+UI providing great visuals and don’t need to master any CLI. You can comment on changes/revisions made by others, contribute to open source projects, 
 fork projects, download projects, upload your projects, make gists, and much much more. You even get a free domain as http://<your_user_name>.github.io/, 
-check me out at Madhusudan Rathore,but i havenâ€™t updated it. This is really great as CSE/IT students are expected to have their own portfolio websites. You can 
-upload your projects that can be used by others. People can give suggestions, company hiring gets you an advantage as itâ€™s a proof that you have actually 
+check me out at Madhusudan Rathore,but i haven’t updated it. This is really great as CSE/IT students are expected to have their own portfolio websites. You can 
+upload your projects that can be used by others. People can give suggestions, company hiring gets you an advantage as it’s a proof that you have actually 
 done work unlike people who say they did projects but are unable to prove it.
 
 
@@ -96,18 +95,18 @@ What is Open API 3.0
 
 *********************************
 Version control system
-Suppose youâ€™re working your new project with 3 of your colleagues. The planning, timeline, etc for development has been made final and now you start 
-writing code for your project. Letâ€™s assume you would work on back-end, two colleagues would work on UI, and last one would work on interconnecting back-end 
+Suppose you’re working your new project with 3 of your colleagues. The planning, timeline, etc for development has been made final and now you start 
+writing code for your project. Let’s assume you would work on back-end, two colleagues would work on UI, and last one would work on interconnecting back-end 
 and front-end. A naive approach would be that you guys would agree before that whole code would be maintained on your laptop. Thus development is centralized 
 to your laptop. After sometime into development, you would observe that maintaining the work-flow becomes tedious. Suppose, the UI guys want to test some
 functionality or develop some new feature, they would need access to your laptop, even though they developed on their own computers. 
-Similarly the interconnecting of UI and back-end would also require you laptopâ€™s access. Now consider youâ€™re out on a vacation or other stuff, the whole development 
+Similarly the interconnecting of UI and back-end would also require you laptop’s access. Now consider you’re out on a vacation or other stuff, the whole development 
 process comes to a halt as your laptop is unavailable. Also, if some new functionality is added or existing functionality is modified it needs to be shared with 
 others on development team. Some kind of system is required that makes development easier. The answer is Version Control System. Instead of your laptop, agree on 
 centralizing your code on VCS platforms like Git, Subversion, DCVS, Mercurial, etc. VCS treats each file/change as a revision and coordinates work on those change 
 among multiple people providing information like who edited or created it, when, what changes were made, etc. It also provides the ability to revert a file/change 
 to a previous revision for allowing editors to track each other's edits, correct mistakes, and defend against vandalism and spamming. VCS can be distributed or 
-centralized, but distributed has more advantages.Thus development doesnâ€™t depend on a single entity as VCS tends to be distributed. Each entity is treated with 
+centralized, but distributed has more advantages.Thus development doesn’t depend on a single entity as VCS tends to be distributed. Each entity is treated with 
 equal importance as others.
 
 
