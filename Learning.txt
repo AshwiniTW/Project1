@@ -1,0 +1,153 @@
+
+**********************
+
+Your username: ashwini@metapercept.com
+MH12MD285
+
+******************
+
+SwaggerHub is a free and cloud-based API development platform that is used to build, document, manage, and deploy APIs.
+
+SwaggerHub provides a complete solution for designing, managing, and publishing documentation for your 
+API in ways that will simplify your life as an API technical writer.
+
+SwaggerHub is used by more than 15,000 software teams across the globe.
+
+
+*******************
+
+Swagger Editor – a browser-based editor where you can write OpenAPI definitions.
+
+Swagger UI – renders OpenAPI definitions as interactive API documentation, like the one at http://petstore.swagger.io.
+
+Swagger Codegen – generates server code and client libraries based on an OpenAPI definition.
+
+
+
+******************
+
+9665922666- Amit
+
+9284819352- Suchitra
+
+****************
+What is Git
+Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.
+
+Git is the version control software.
+GitHub is a hosting solution for your commited changes.
+****************
+
+
+What is GitHub
+GitHub is the repository where all files stored
+
+It is a code hosting platfporm for collaboration and version control. It helps you to work with others.
+Githubs essentials are repositories, branches, commits, pull requests, git
+
+GitHub pages is a static site hosting service designed to host your personal, organizational, or project pages directly from GitHub reository.
+
+
+What is GitHub?
+
+GitHub is web-based hosting service for Version Control using Git. It offers all functionalities of git as well adding many of its own. You get a much clean web
+UI providing great visuals and don’t need to master any CLI. You can comment on changes/revisions made by others, contribute to open source projects, 
+fork projects, download projects, upload your projects, make gists, and much much more. You even get a free domain as http://<your_user_name>.github.io/, 
+check me out at Madhusudan Rathore,but i haven’t updated it. This is really great as CSE/IT students are expected to have their own portfolio websites. You can 
+upload your projects that can be used by others. People can give suggestions, company hiring gets you an advantage as it’s a proof that you have actually 
+done work unlike people who say they did projects but are unable to prove it.
+
+
+https://www.w3schools.com/whatis/whatis_github.asp
+
+******************
+
+What is BitBucket
+Bitbucket is a web-based version control repository hosting service owned by Atlassian, for source code and development projects that use 
+either Mercurial (since launch) or Git (since October 2011[2]) revision control systems.
+******************
+
+
+
+How GitHub works
+
+How BitBucket works
+
+What is API Documantation
+
+What is ReDoc
+Redoc is an authoring tool
+ReDoc provides a simple, clean, and attractive altenatives to documantation.
+ReDoc is the responsive, three panel, openAPI driven documentation for your API.
+ReDoc leverages a custom HTML tag, and provides you with a handful of attributes for defining, and customizing their documentation, 
+including specurl, scroll-y-offset, suppress-warnings, lazy-rendering, hid-hostname, and expand-responses--providing some quick ways 
+to get exactly what you need, on any web page.
+
+Usage of commands and HTML code
+ReDoc is an alternative to SwaggerHub
+
+
+What is SwaggerHub
+It is an authoring tool
+
+What is Open API 3.0
+
+
+*********************************
+Version control system
+Suppose you’re working your new project with 3 of your colleagues. The planning, timeline, etc for development has been made final and now you start 
+writing code for your project. Let’s assume you would work on back-end, two colleagues would work on UI, and last one would work on interconnecting back-end 
+and front-end. A naive approach would be that you guys would agree before that whole code would be maintained on your laptop. Thus development is centralized 
+to your laptop. After sometime into development, you would observe that maintaining the work-flow becomes tedious. Suppose, the UI guys want to test some
+functionality or develop some new feature, they would need access to your laptop, even though they developed on their own computers. 
+Similarly the interconnecting of UI and back-end would also require you laptop’s access. Now consider you’re out on a vacation or other stuff, the whole development 
+process comes to a halt as your laptop is unavailable. Also, if some new functionality is added or existing functionality is modified it needs to be shared with 
+others on development team. Some kind of system is required that makes development easier. The answer is Version Control System. Instead of your laptop, agree on 
+centralizing your code on VCS platforms like Git, Subversion, DCVS, Mercurial, etc. VCS treats each file/change as a revision and coordinates work on those change 
+among multiple people providing information like who edited or created it, when, what changes were made, etc. It also provides the ability to revert a file/change 
+to a previous revision for allowing editors to track each other's edits, correct mistakes, and defend against vandalism and spamming. VCS can be distributed or 
+centralized, but distributed has more advantages.Thus development doesn’t depend on a single entity as VCS tends to be distributed. Each entity is treated with 
+equal importance as others.
+
+
+Version control: It is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+GitHub= Git + Hub
+
+
+*********************************
+
+What is Git?
+
+Git is an Open Source DISTRIBUTED VERSION CONTROL SYSTEM. 
+
+It is mainly used for source code management in software development. 
+It is a Command Line Interface(CLI) tool and can be mastered easily
+
+
+*********************************
+Install SwaggerHub and GitHub and then integrate it.
+
+********************************
+
+GitHub password
+
+Intel101_ggc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
